@@ -24,4 +24,4 @@ That's essentially it.
 But... but...
 -------------
 
-No.
+No. And have a test commit.
